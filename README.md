@@ -38,6 +38,61 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iqblrka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# Hi there, I'm [Nama Kamu] 👋 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Mobile+Developer+(Flutter);3D+Artist+(Blender);Algorithmic+Trader+(MQL5)" alt="Typing SVG" />
+</p>
+
+---
+
+### 💫 About Me
+
+- 🎓 Mahasiswa **Teknik Informatika** di **Politeknik Negeri Jember (PSDKU Nganjuk)**.
+- 📱 Fokus pada pengembangan aplikasi mobile menggunakan **Flutter**.
+- 🤖 Tertarik pada **Algorithmic Trading** dan pengembangan **Expert Advisor (MQL5)**.
+- 🎨 Suka bereksperimen dengan **3D Modeling** menggunakan **Blender**.
+- 🏆 Juara 3 **KMIPN VII (2025)** kategori Pengembangan Aplikasi Permainan.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,blender,git,visualstudio,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
+
+### 🏆 Featured Project
+
+- **[SimpelSi](https://github.com/[USERNAME_KAMU]/SimpelSi)**: Sistem Pelaporan Sampah Ilegal yang dikembangkan untuk membantu menjaga lingkungan.
+- **EA Scalping XAU**: Robot trading otomatis untuk platform MetaTrader 5.
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[USERNAME_KAMU]/[USERNAME_KAMU]/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[USERNAME_KAMU]&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=iqblrka&icon=0&color=0)](https://visitcount.itsvg.in)
 
