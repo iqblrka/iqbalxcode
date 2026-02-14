@@ -1,3 +1,23 @@
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Muhammad Iqbal Rakha!+%F0%9F%91%8B;Mahasiswa+D4+Informatika;Pengembang+Web+%26+IoT;Mencintai+Teknologi+dan+Kopi" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Politeknik+Negeri+Jember;Programmer+by+day,+dreamer+by+night" alt="Subheader" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=cen&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Developing a web-based inventory management system using Laravel and React for local UMKM (micro-businesses) in East Java.<br>🤝 I’m looking to collaborate on Open-source projects focused on digital literacy initiatives for rural communities, especially in Jember and surrounding areas.<br>💛 I’m looking for help with Optimizing machine learning models for real-time data processing in IoT-based campus security systems.<br>🌱 I’m currently learning Advanced cloud infrastructure (AWS/Azure) and ethical hacking techniques to enhance cybersecurity skills.<br>💬 Ask me about Web development best practices, database design for scalable applications, or my final project on Smart Campus Solutions using IoT.<br>⚡ Fun fact I built a Raspberry Pi-powered smart home prototype during my internship at a Jember-based tech startup—complete with voice-controlled lights and energy monitoring!
 
@@ -24,24 +44,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iqblrka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Cen!+%F0%9F%91%8B;Mahasiswa+D4+Informatika;Pengembang+Web+%26+IoT;Mencintai+Teknologi+dan+Kopi" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Politeknik+Negeri+Jember;Programmer+by+day,+dreamer+by+night" alt="Subheader" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=cen&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
 
 
 
