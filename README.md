@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_KAMU]&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=iqblrka&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
